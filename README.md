@@ -1,7 +1,7 @@
 # scraping_project
 Pour commencer il est obligatoire d'avoir python >= 3.4 et installer BeautifulSoup
 
-lelscan.py prend en argument 2 paramètres:\n
+lelscan.py prend en argument 2 paramètres:
     *Première paramètre Obligatoire, il s'agit d'url du chapitre qu'on veut scrapter
         Exemple: lelscan.py https://lelscans.net/scan-one-piece/1053
         
